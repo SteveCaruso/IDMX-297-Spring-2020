@@ -1,2 +1,3 @@
 # Put Project Ideas Below
-* [idea]
+* Game Dev Lab Checkin Kiosk/App
+* Nota Bene Website Redesign
