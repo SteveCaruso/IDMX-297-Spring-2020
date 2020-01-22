@@ -1,2 +1,2 @@
-#Put Project Ideas Below
+# Put Project Ideas Below
 * [idea]
