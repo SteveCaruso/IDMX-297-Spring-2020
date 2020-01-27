@@ -2,9 +2,9 @@
 * Game Dev Lab Checkin Kiosk/App
 * Nota Bene Website Redesign
 * Interactive (less clunky) SCRUM machine
-* Teach Professors How To Use Canvas (a tutorial)
+* Teach Professors How To Use Canvas (a tutorial) (JESS)
 * Program Requirement Helper
-* Tutor Tinder
+* Tutor Tinder (Himani)
 * Car Politeness Tools
-* Food Pantry / Resource Center Website
+* Food Pantry / Resource Center Website (Vrunda)
 * Website for Local Business (Alan!)
